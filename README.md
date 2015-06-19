@@ -5,7 +5,7 @@ Simple shell developed in C
 
 Features:<br/>
 1. É exibido prompt que aguarda a entrada do usuário.<br/>
-2. O comando exit sai do processador de comandos.<br/>
+2. O comando 'exit' sai do shell.<br/>
 3. Quando a entrada é um programa, ele é executado.<br/>
 4. Pode-se passar parâmetros para os programas chamados.<br/>
 5. O prompt mostra: [MySh] nome-deusuario@hospedeiro:diretorio-atual$<br/>
